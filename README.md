@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [thinhlevn](https://github.com/thinhlevn/Frontend-Mentor---Interactive-rating-component-solution/settings/pages)
-- Live Site URL: [Interactive rating component solution](https://thinhlevn.github.io/Frontend-Mentor---Interactive-rating-component-solution/)
+- Solution URL: [fatbug97](https://github.com/fatbug97/Interactive-rating-component-solution/settings/pages)
+- Live Site URL: [Interactive rating component solution](https://fatbug97.github.io/Interactive-rating-component-solution/)
 
 ## My process
 
@@ -68,6 +68,6 @@ input[type="radio"]:checked + label {
 ```
 ## Author
 
-- Website - [thinh.xyz](https://thinh.xyz)
-- Frontend Mentor - [@thinhlevn](https://www.frontendmentor.io/profile/thinhlevn)
+- Website - [fatbug97.me](https://fatbug97.me)
+- Frontend Mentor - [@fatbug97](https://www.frontendmentor.io/profile/fatbug97)
 - Twitter - [@fatbug97](https://www.twitter.com/fatbug97)
